@@ -106,7 +106,9 @@ Climate tech leverages technology to mitigate or adapt to climate change. This l
   
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
+
+Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
